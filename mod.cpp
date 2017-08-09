@@ -1,0 +1,12 @@
+name = "EMod FOV";
+picture = "logo_emod_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/emod-arma/emod_fov";
+description = "EMod FOV";
+logo = "logo_emod_ca.paa";
+logoOver = "logo_emod_ca.paa";
+tooltip = "EMode FOV";
+tooltipOwned = "EMod FOV Owned";
+overview = "EMod FOV";
+author = "EMod Team";
+overviewPicture = "logo_emod_ca.paa";
