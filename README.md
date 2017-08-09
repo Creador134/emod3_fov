@@ -20,3 +20,30 @@
 <p align="center">
     <sup><strong>Requires the latest version of <a href="https://github.com/EMod-ArmA/EMod3/releases">EMod</a>.
 </p>
+
+<br/>
+<h4>Infantry Preview</h4>
+<img src="http://fs5.directupload.net/images/151211/jpwiv3if.jpg" alt="" />
+<br/>
+
+<h4>Land Vehicle Preview (Car)</h4>
+<img src="http://fs5.directupload.net/images/151211/wi8d7kxy.jpg" alt="" />
+<br/>
+
+<h4>Land Vehicle Preview (Truck)</h4>
+coming soon™
+<br/>
+</div>
+
+<h4>Air Vehicle Preview</h4>
+coming soon™
+<br/>
+</div>
+
+<br/><br/>
+<p>
+THX to:
+<ul>
+<li>CBA-Team for CBA_A3 and the tools</li>
+<li>ACE3-Team for the tools</li>
+</ul>
