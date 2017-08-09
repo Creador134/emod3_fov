@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-    <sup><strong>Requires the latest version of <a href="https://github.com/EMod-ArmA/EMod/releases">EMod</a>.
+    <sup><strong>Requires the latest version of <a href="https://github.com/EMod-ArmA/EMod3/releases">EMod</a>.
 </p>
