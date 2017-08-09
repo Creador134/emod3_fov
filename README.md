@@ -39,11 +39,3 @@ coming soon™
 coming soon™
 <br/>
 </div>
-
-<br/><br/>
-<p>
-THX to:
-<ul>
-<li>CBA-Team for CBA_A3 and the tools</li>
-<li>ACE3-Team for the tools</li>
-</ul>
