@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/downloads/EMod-ArmA/emod3_fov/total.svg?style=flat-square&label=Downloads" alt="Downloads">
     </a>
     <a href="https://github.com/EMod-ArmA/emod3_fov/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/License-GPLv2-red.svg?style=flat-square" alt="License">
+        <img src="https://img.shields.io/badge/License-GPLv3-red.svg?style=flat-square" alt="License">
     </a>
 </p>
 
